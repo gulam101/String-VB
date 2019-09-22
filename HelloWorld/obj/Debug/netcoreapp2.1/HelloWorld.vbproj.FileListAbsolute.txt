@@ -1,0 +1,11 @@
+C:\Users\Gulam\source\repos\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.deps.json
+C:\Users\Gulam\source\repos\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.json
+C:\Users\Gulam\source\repos\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.dev.json
+C:\Users\Gulam\source\repos\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.dll
+C:\Users\Gulam\source\repos\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.pdb
+C:\Users\Gulam\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.vbprojAssemblyReference.cache
+C:\Users\Gulam\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.vbproj.CoreCompileInputs.cache
+C:\Users\Gulam\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Gulam\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfo.vb
+C:\Users\Gulam\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.dll
+C:\Users\Gulam\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.pdb
